@@ -17,15 +17,15 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["8801853262586","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801853262586","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801928502256"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
-global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: Slasher";                               //Do not change.
+global.Owner = ["201016892396","201016892396"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["201016892396","2010192396"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["201016892396"];
+global.OwnerName = "🔱...𝑴𝑬𝑫𝑶..🐉";
+global.BotName = "『🐉┇𝙼𝙴𝙳𝙾 𝙱𝙾𝚃』";
+global.packname = "『🐉┇𝙼𝙴𝙳𝙾 𝙱𝙾𝚃』t";                             //Do not change.
+global.author = "By: 🔱...𝑴𝑬𝑫𝑶..🐉";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
+global.SupportGroupLink = "http://wa.me/201016892396"; 
 
 
 //
@@ -39,8 +39,8 @@ global.openAiAPI = "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";
 
 //
 global.location = "Dhaka, Bangladesh";                   
-global.reactmoji = "✅";
-global.themeemoji = "💖";
+global.reactmoji = "🔱";
+global.themeemoji = "🐉";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
 global.websitex = "https://github.com/ahil15";
 global.lolhuman = "KaysaS";
